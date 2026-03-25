@@ -52,7 +52,7 @@
 
 ## 🎨 动态与趣味
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[你的用户名]&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Letin147&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
 
 <!-- 趣味彩蛋：代码片段 -->
