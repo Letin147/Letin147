@@ -35,12 +35,12 @@
 
 ## 📊 GitHub 数据
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Letin147&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Letin147&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[你的用户名]&theme=radical" alt="连续提交记录" style="width: 60%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Letin147&theme=radical" alt="连续提交记录" style="width: 60%;"/>
 </div>
 
 ## 🌟 核心项目
